@@ -1,2 +1,2 @@
 # log_review
-log review.
+belatrix directory is the IntelliJ Projecct made with maven.
